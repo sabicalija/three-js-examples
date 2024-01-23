@@ -1,0 +1,6 @@
+# Ignore
+.parcel-cache/
+dist/
+node_modules/
+
+# Allow
